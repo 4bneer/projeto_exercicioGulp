@@ -1,0 +1,1 @@
+function ಠ_ಠ911(ಠ_ಠ912,ಠ_ಠ913){return ಠ_ಠ912+ಠ_ಠ913}console.log("A ಠ_ಠ911 dos valores deu: ",ಠ_ಠ911(4,9));

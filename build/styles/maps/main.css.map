@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","variaveis.scss"],"names":[],"mappings":"AAEA,KACI,iBCHW,KDIX","file":"../main.css","sourcesContent":["@use './variaveis.scss';\n\nbody {\n    background-color: variaveis.$corPrincipal;\n    border: 3px solid variaveis.$corSecundaria;\n}","$corPrincipal: blue;\n$corSecundaria: darkblue;"]}
